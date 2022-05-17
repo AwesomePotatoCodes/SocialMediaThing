@@ -5,8 +5,9 @@
 */
 
 .title {
-  color: #ff004c; /* Color: Red-Pink (70% Red, 30% Pink) */
-  font-family: verdana; /* Find a new font soon */
+  color: #ff004c;
+  font-family: verdana;
   size: 28px;
+  border-bottom-style: dashed
 }
 
