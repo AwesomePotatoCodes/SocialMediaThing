@@ -1,5 +1,12 @@
+/* Color List:
+ - #c5f7ff (Dream Blue)
+ - #ff004c (Red-Pink)
+ - #5c5c5c (Dark-Grey)
+*/
+
 .title {
-  color: red;
-  font-family: verdana;
+  color: #ff004c; /* Color: Red-Pink (70% Red, 30% Pink) */
+  font-family: verdana; /* Find a new font soon */
   size: 28px;
 }
+
